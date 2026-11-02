@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/83c05fa3-e859-4b99-9b9c-aabb81ed1f45" width="150" alt="Logo TechFlow"/>
+<img  src="https://github.com/user-attachments/assets/3017e0a7-6c49-47c9-91d3-0805bff6ac6d" width="150" alt="Logo TechFlow"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=TechFlow&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Sistema%20de%20Chamados%20e%20Controle%20de%20Estoque&descAlignY=60&descSize=15" width="100%"/>
 
@@ -90,59 +90,82 @@ O TechFlow propõe uma solução demonstrativa para:
 
 ### 1. Portal do Usuário
 
-<img src="https://github.com/user-attachments/assets/172df59c-886d-4cc7-a1d2-e5d17457a759" width="100%" alt="Página inicial do TechFlow"/>
+Tela inicial do TechFlow, com acesso ao Portal do Usuário e à Área Administrativa.
 
-Página inicial com acesso ao portal do usuário e à área administrativa.
+<img src="https://github.com/user-attachments/assets/2fa92ef4-4979-4d0c-a392-7969fc90c7c2" width="100%" alt="Página inicial do TechFlow"/>
 
-### 2. Abertura de chamados
+### 2. Abertura de Chamados
 
-<img src="https://github.com/user-attachments/assets/f05f3c93-18b8-4bbe-a014-e9c1e6adb985" width="100%" alt="Identificação do usuário"/>
+**Etapa 1 — Identificação do solicitante**
 
-Identificação do solicitante para registrar os dados necessários ao atendimento.
+Formulário para informar nome, setor, e-mail corporativo e ramal, permitindo identificar quem está solicitando o suporte.
 
-<img src="https://github.com/user-attachments/assets/3f4847dd-ccbd-427f-b66f-37bb27a3ee55" width="100%" alt="Seleção de equipamento"/>
+<img src="https://github.com/user-attachments/assets/825abab9-6b66-470b-8f31-750e24984693" width="100%" alt="Identificação do usuário"/>
 
-Seleção visual do equipamento que apresenta problemas.
+**Etapa 2 — Seleção do equipamento**
 
-<img src="https://github.com/user-attachments/assets/1483dd8a-70a9-4503-80cb-1f000b420048" width="100%" alt="Descrição do problema"/>
+Seleção visual do equipamento que apresenta problemas, facilitando a identificação da ocorrência.
 
-Descrição da ocorrência e definição da prioridade do chamado.
+<img src="https://github.com/user-attachments/assets/b9715df2-af2a-446b-b10f-aafe74c4f8e1" width="100%" alt="Seleção de equipamento"/>
 
-### 3. Área Administrativa
+**Etapa 3 — Descrição do problema**
 
-<img src="https://github.com/user-attachments/assets/81f9d2be-cf42-4a33-9753-b9e4e2d40040" width="100%" alt="Login administrativo"/>
+Etapa final da abertura do chamado, na qual o usuário descreve o problema e define o nível de urgência do atendimento.
 
-Tela de autenticação demonstrativa para acesso à gestão.
+<img src="https://github.com/user-attachments/assets/a92d00cb-f280-4bc9-b0f1-44d0b1c7740d" width="100%" alt="Descrição do problema"/>
 
-<img src="https://github.com/user-attachments/assets/7515f8e7-e190-4f55-8aa7-3726efaa66be" width="100%" alt="Painel de gestão"/>
+### 3. Área Administrativa — Gestão
 
-Painel administrativo com visão geral dos chamados e movimentações.
+**Login administrativo**
 
-<img src="https://github.com/user-attachments/assets/d68b2e1b-cd63-4b34-a082-ab3a05673f91" width="100%" alt="Chamados recebidos"/>
+Tela de autenticação demonstrativa para acesso ao ambiente administrativo do sistema.
 
-Lista de chamados com informações do solicitante, equipamento, prioridade e status.
+<img src="https://github.com/user-attachments/assets/44861481-e316-4cf5-a3fe-4624e181b6d6" width="100%" alt="Login administrativo"/>
+
+**Visão geral do Painel da Gestão**
+
+Painel principal com indicadores, visão geral dos chamados recebidos e acompanhamento das movimentações do estoque.
+
+<img src="https://github.com/user-attachments/assets/6dd73418-eb64-4b1d-a228-cae378a37e38" width="100%" alt="Visão geral do painel de gestão"/>
+
+**Gerenciamento de chamados**
+
+Lista de solicitações com informações do solicitante, equipamento, descrição, prioridade e status. Permite que a gestão acompanhe, assuma e resolva os atendimentos.
+
+<img src="https://github.com/user-attachments/assets/dad4d865-9ca2-42c1-9942-26ba9477c4e9" width="100%" alt="Painel de chamados abertos"/>
 
 ### 4. Controle de Estoque
 
-<img src="https://github.com/user-attachments/assets/e6298080-aaee-43e9-8e4e-f30010be26db" width="100%" alt="Visão geral do estoque"/>
+**Visão geral do estoque**
 
-Visão geral do módulo de controle de estoque.
+Painel principal do módulo de estoque, reunindo indicadores e informações sobre os materiais disponíveis.
 
-<img src="https://github.com/user-attachments/assets/9a2b53ae-02cb-4294-a393-d09178946d2f" width="100%" alt="Itens cadastrados"/>
+<img src="https://github.com/user-attachments/assets/d4afa035-5291-4370-a057-c6d4ba8b1843" width="100%" alt="Visão geral do estoque"/>
 
-Tabela de itens, quantidades, categorias, localização e disponibilidade.
+**Itens cadastrados**
 
-<img src="https://github.com/user-attachments/assets/866baebc-78af-4c19-a817-34122e1aa7db" width="70%" alt="Histórico de movimentações"/>
+Tabela de controle com identificação dos itens, categorias, quantidades, localização e disponibilidade dos materiais.
 
-Histórico de entradas e saídas de materiais.
+<img width="1265" height="611" alt="painel do estoque" src="https://github.com/user-attachments/assets/2fcd639c-e70c-4f55-bccf-d896818b29c0" width="100%" alt="Itens cadastrados no estoque"/>
 
-<img src="https://github.com/user-attachments/assets/59e42c39-ace2-431d-94f2-823a69e27042" width="70%" alt="Gráfico de movimentações"/>
+**Histórico de entradas e saídas**
 
-Gráfico comparativo das movimentações de estoque.
+Registro das movimentações realizadas, apresentando os itens movimentados, quantidades e datas, permitindo acompanhar o fluxo do estoque.
 
-<img src="https://github.com/user-attachments/assets/0087afb4-2191-4625-97b0-b4fab9be3e54" width="70%" alt="Registro de movimentação"/>
+<img src="https://github.com/user-attachments/assets/1aacc610-9426-4bfa-b8e4-9179f97518af" width="70%" alt="Histórico de entradas e saídas"/>
 
-Janela para registrar entradas e saídas de materiais.
+**Gráfico de movimentações**
+
+Representação visual das entradas e saídas de materiais, facilitando o acompanhamento das movimentações do estoque.
+
+<img src="https://github.com/user-attachments/assets/de5c95fa-b563-4bf5-aca8-e01d08f17b86" width="70%" alt="Gráfico de movimentações"/>
+
+**Registro de movimentação**
+
+Janela utilizada pela gestão para registrar entradas e saídas, informando item, categoria, tipo de movimentação, quantidade e localização.
+
+<img src="https://github.com/user-attachments/assets/b892ccb3-ca83-476e-840c-aeb1044ed505" width="70%" alt="Registro de movimentação do estoque"/>
+
 
 ## 📁 Estrutura do projeto
 
