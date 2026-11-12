@@ -219,7 +219,7 @@ Durante o desenvolvimento do TechFlow, foram trabalhados conceitos importantes d
 - Organização de prioridades e status de atendimento.
 - Versionamento e publicação utilizando GitHub.
 
-## 🔮 Melhorias futuras
+## 🔮 futuras Melhorias
 
 Para uma possível evolução do projeto, algumas melhorias podem ser implementadas:
 
